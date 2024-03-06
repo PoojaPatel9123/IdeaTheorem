@@ -37,12 +37,12 @@ This will start a development server at http://localhost:3000.
 
 2. Once logged in, click on the "New site from Git" button on your dashboard.
 
-3. Choose your Git provider and select the repository containing React.js app.
+3. Choose GitHub and select the repository containing React.js app.
 
-4. Configure your build settings:
+4. Configure build settings:
 
-    Build command: `npm run build`
-    Publish directory: build/
+    1. Build command: `npm run build`
+    2. Publish directory: build/
 
 5. Click on "Deploy site".
 
