@@ -5,8 +5,8 @@ This guide will help you set up and deploy this react.js application to Netlify.
 
 Before you begin, make sure you have the following installed:
 
-Node.js and npm
-Git
+1. Node.js and npm
+2. Git
 
 ## Getting Started
 
@@ -20,7 +20,7 @@ Git
 
 3. Install dependencies:
 
-`npm install``
+`npm install`
 
 ### Development Server
 
@@ -41,7 +41,7 @@ This will start a development server at http://localhost:3000.
 
 4. Configure your build settings:
 
-    Build command: npm run build
+    Build command: `npm run build`
     Publish directory: build/
 
 5. Click on "Deploy site".
